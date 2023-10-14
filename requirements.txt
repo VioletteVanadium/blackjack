@@ -1,0 +1,10 @@
+arcade==3.0.0.dev25
+attrs==23.1.0
+cffi==1.16.0
+numpy==1.26.0
+Pillow==10.0.1
+pycparser==2.21
+pyglet==2.0.9
+pymunk==6.5.1
+pytiled-parser==2.2.3
+typing_extensions==4.8.0
